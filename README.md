@@ -13,6 +13,19 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
 
 <h2>Projecten </h2>
-School informatie website https://github.com/MischaTrooster/project-website
+School informatie website:
+https://github.com/MischaTrooster/project-website
+
+Docenten lunch app: 
+https://github.com/MischaTrooster/RN-docentenlunch
+
+
+<h2>Over mij</h2>
+Ik werk graag met databases en wil daar steeds beter in worden.
+Later lijkt het me interessant om te werken aan systemen bij een bank of op een luchthaven, waar veel data en betrouwbaarheid belangrijk zijn.
+
+
+
+
 
 
