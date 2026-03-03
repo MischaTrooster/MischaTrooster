@@ -1,3 +1,7 @@
+<img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/9121bd2c-10c9-441a-a06b-351903f348eb" />
+
+
+
 # 👋 Hi, ik ben Mischa Trooster
 
 💻 Junior developer (PHP / Laravel / JS)
