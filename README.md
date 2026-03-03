@@ -30,8 +30,9 @@ https://github.com/MischaTrooster/RN-docentenlunch
 
 ## 🧠 Over mij
 
-Ik werk graag met databases en backend-structuren.  
-Ik ben vooral geïnteresseerd in systemen waar betrouwbaarheid en data centraal staan, zoals bij banken, luchthavens of grote organisaties.
+Ik hou van werken met Laravel en databases. 
+Mijn ambitie is om als backend developer te werken binnen een verantwoordelijke omgeving, zoals een luchthaven of een bank. 
+
 
 Momenteel verdiep ik mij in:
 - Database design 
