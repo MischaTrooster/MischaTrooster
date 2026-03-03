@@ -3,7 +3,6 @@
 
 # 👋 Hi, ik ben Mischa Trooster
 
-💻 Junior developer (PHP / Laravel / JS)
 🎯 Op zoek naar stage 2026
 🚀 Focus op backend & structuur
 
