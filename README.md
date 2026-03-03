@@ -11,10 +11,10 @@
 
 
 <h2>Projecten </h2>
-School informatie website:
+School website:
 https://github.com/MischaTrooster/project-website
 
-Docenten lunch app: 
+Docenten app: 
 https://github.com/MischaTrooster/RN-docentenlunch
 
 
