@@ -1,5 +1,4 @@
-<img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/9121bd2c-10c9-441a-a06b-351903f348eb" />
-
+<img width="1834" height="938" alt="Make your README (1)" src="https://github.com/user-attachments/assets/ba78d7dd-2a0c-4112-a5a2-8f53ec3aabbc" />
 
 
 # 👋 Hi, ik ben Mischa Trooster
