@@ -1,6 +1,9 @@
-<h1>MischaTrooster</h1>
-<p>Hi, ik ben Mischa Trooster, 21 jaar en developer in opleiding en ontwikkel mij bewust richting datalogica en databases.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+# 👋 Hi, ik ben Mischa Trooster
+
+💻 Junior developer (PHP / Laravel / JS)
+🎯 Op zoek naar stage 2026
+🚀 Focus op backend & structuur
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
