@@ -24,7 +24,7 @@ Ik werk graag met databases en backend-structuren.
 Ik ben vooral geïnteresseerd in systemen waar betrouwbaarheid en data centraal staan, zoals bij banken, luchthavens of grote organisaties.
 
 Momenteel verdiep ik mij in:
-- Database design (normalisatie, relaties)
+- Database design 
 - Laravel architectuur
 - Schone en gestructureerde code volgens MVC
 
