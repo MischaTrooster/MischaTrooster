@@ -33,9 +33,9 @@ Ik hou van werken met Laravel en databases.
 Mijn ambitie is om als backend developer te werken binnen een verantwoordelijke omgeving, zoals een luchthaven of een bank. 
 
 
-Momenteel verdiep ik mij in:
-- Database design 
-- Laravel architectuur
+Momenteel werk ik aan:
+- Bibliotheek project
+- Mini bank-systeem
 - Schone en gestructureerde code volgens MVC
 
 
